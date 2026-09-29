@@ -1,0 +1,3 @@
+We are looking for an AI/ML intern with Python, SQL, machine learning, NLP,
+Pandas, NumPy and scikit-learn knowledge. Experience with Git and basic cloud
+deployment is a plus. Strong problem-solving and communication skills required.
